@@ -2,7 +2,7 @@
 
 This is my personal space on the web, also can find me on social networks. I will share with the world my experiences, thoughts, plans and personal or professional projects, yayyyy ;)
 
-I'm a software developer, living at San Pedro Sula, Honduras. I mostly work with JavaScript (AngularJs, Angular) and Ruby on Rails, also as a teacher about ecommerce. Also I'm studying Python with the University of Toronto through [Coursera.org](https://www.coursera.org/learn/learn-to-program), my objective for this course is obtain my Certification.
+I'm a software developer, living at San Pedro Sula, Honduras. I mostly work with JavaScript (AngularJs, Angular) and Ruby on Rails, also as a teacher about ecommerce. Also I'm studying Python with the University of Toronto through [Coursera.org](https://www.coursera.org/learn/learn-to-program), my objective for this course is obtain my Certification. I have a Master degree in Project Managemente and a Bachellor Degree in Computer Science.
 
 When I'm not working I'm studiying ReactJs, Mobile Development or working on the FreeCodeCamp FrontEnd/BackEnd certificate.
 
