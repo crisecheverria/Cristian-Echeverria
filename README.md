@@ -1,8 +1,10 @@
 ## Welcome to my personal site
 
-You can use the [editor on GitHub](https://github.com/crisecheverria/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my personal space on the web, also can find me on social networks. I will share with the world my experiences, thoughts, plans and personal or professional projects, yayyyy ;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a software developer, living at San Pedro Sula, Honduras. I mostly work with JavaScript (AngularJs, Angular) and Ruby on Rails, also as a teacher about ecommerce. Also I'm studying Python with the University of Toronto through [Coursera.org](https://www.coursera.org/learn/learn-to-program), my objective for this course is obtain my Certification.
+
+When I'm not working I'm studiying ReactJs, Mobile Development or working on the FreeCodeCamp FrontEnd/BackEnd certificate.
 
 ### Markdown
 
