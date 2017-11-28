@@ -9,7 +9,9 @@ When I'm not working I'm studiying ReactJs, Mobile Development or working on the
 ### Portfolio
 
 - [tutor2go.network](https://tutor2go.network/): It is a platform to hire tutors for numerical sciences, arts and languages. The classes are offered in face-to-face and online mode, is made up of a list of tutors with their profiles, and has a dashboard for students and tutors. **Tools Used**: AngularJs, Firebase, Twitter Bootstrap.
-- [focusAcademy](https://focuscademy.com/): 
+- [focuscademy.com](https://focuscademy.com/): Focus Academy SRL Website. **Tools Used**: AngularJs, Firebase, Twitter Bootstrap.
+- [kecomemoshn.com](https://kecomemoshn.com/): Web/App mobile for ké comemos? (What we eat?). **Tools Used**: AngularJs, Firebase, Twitter, Ionicframework
+- [Ruby on Rails Chat App](chat-app-echeverria.herokuapp.com/) - [GitHub Repo](https://github.com/crisecheverria/fitsmind-code-challenge/tree/master/rails-backend/chatApp): It's a Chat App where Users, Trainers and Admins que SignUp in order to send messages between registered users. Only an Admin user que view, edit, delete all conversations, others users only can View the conversations where they are involved. **Tools Used**: Rails 4, Devise, Heroku 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
