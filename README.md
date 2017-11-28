@@ -6,7 +6,10 @@ I'm a software developer, living at San Pedro Sula, Honduras. I mostly work with
 
 When I'm not working I'm studiying ReactJs, Mobile Development or working on the FreeCodeCamp FrontEnd/BackEnd certificate.
 
-### Markdown
+### Portfolio
+
+- [tutor2go.network](https://tutor2go.network/): It is a platform to hire tutors for numerical sciences, arts and languages. The classes are offered in face-to-face and online mode, is made up of a list of tutors with their profiles, and has a dashboard for students and tutors. **Tools Used**: AngularJs, Firebase, Twitter Bootstrap.
+- [focusAcademy](https://focuscademy.com/): 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
