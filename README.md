@@ -12,34 +12,7 @@ When I'm not working I'm studiying ReactJs, Mobile Development or working on the
 - [focuscademy.com](https://focuscademy.com/): Focus Academy SRL Website. **Tools Used**: AngularJs, Firebase, Twitter Bootstrap.
 - [kecomemoshn.com](https://kecomemoshn.com/): Web/App mobile for ké comemos? (What we eat?). **Tools Used**: AngularJs, Firebase, Twitter, Ionicframework
 - [Ruby on Rails Chat App](chat-app-echeverria.herokuapp.com/) - [GitHub Repo](https://github.com/crisecheverria/fitsmind-code-challenge/tree/master/rails-backend/chatApp): It's a Chat App where Users, Trainers and Admins have to Sign Up in order to send messages between registered users. Only an Admin user que view, edit, delete all conversations, others users only can View the conversations where they are involved. **Tools Used**: Rails 4, Devise, Heroku
-- [Tour App](https://github.com/crisecheverria/fitsmind-code-challenge/tree/master/front-end-angular): It's a web app where you can create Markers by clicking on the map, drag and drop markers an update their position, also use localStorage to keep data after browser refresh, when a user create a list of markers he can send the information to a driver as a JSON file. **Tools used**: Angular-cli, Angular Google Maps (AGM), Less 
+- [Tour App](https://github.com/crisecheverria/fitsmind-code-challenge/tree/master/front-end-angular): It's a web app where you can create Markers by clicking on the map, drag and drop markers an update their position, also use localStorage to keep data after browser refresh, when a user create a list of markers he can send the information to a driver as a JSON file. **Tools used**: Angular-cli, Angular Google Maps (AGM), Less
+- [Artists Events Viewer](https://github.com/crisecheverria/vanhack4-frontend): A single-page web application that takes an artist when the user input the artist name and returns details about the artist and their events. **Tools used**: Angular-cli, Angular Google Maps (AGM), [API calls](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crisecheverria/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
