@@ -17,4 +17,7 @@ When I'm not working I'm studiying ReactJs, Mobile Development or working on the
 - **kodfocus.com**: It was an e-learning platform for learn to code, the project was alive for about two years, but now is currently shutdown. You can see a [Youtube](https://youtu.be/8sIeV6JJvAk) video resuming the platform, this video was used for my application into the Global Entrepreneurship Program in the University of San Diego California UCSD. **Tools used**: Ruby on Rails 4, PostgreSql, Paypal, Digital Ocean, Bootstrap.
 - [ReactJs Note Taking App](https://github.com/crisecheverria/reactjs-simple-nodejs-api): This is a work in progress FullStack project, where I created a [simple-nodejs-api](https://github.com/crisecheverria/simple-nodejs-api), uploaded to Heroku and used as BackEnd. My goals with this project is learn more about ReactJs, NodeJs, MongoDb, Express by creating a Note Taking App. **Tools using**: ReactJs, NodeJs, ExpressJs, MongoDb, Heroku
 
+## List of Blog Post
+I started to write Blog Post in order to keep track of the new subjects I started to learn trough awesome learning sites and others developers Blogs. My intentions are put on one place all the new and cool stuff I'm learning and later can find them easely.
 
+1. [Javascript Map and Filter Array Methods](https://github.com/crisecheverria/javascript-map-and-filter-functions)
