@@ -21,3 +21,4 @@ When I'm not working I'm studiying ReactJs, Mobile Development or working on the
 I started to write Blog Post in order to keep track of the new subjects I started to learn trough awesome learning sites and others developers Blogs. My intentions are put on one place all the new and cool stuff I'm learning and later can find them easely.
 
 1. [Javascript Map and Filter Array Methods](https://github.com/crisecheverria/javascript-map-and-filter-functions)
+2. [Contentful.com: Serve content API](https://github.com/crisecheverria/contentful-serve-content-API)
