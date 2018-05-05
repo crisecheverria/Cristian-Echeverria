@@ -2,9 +2,9 @@
 
 This is my personal space on the web, also can find me on social networks. I will share with the world my experiences, thoughts, plans and personal or professional projects, yayyyy ;)
 
-I'm a software developer, living at San Pedro Sula, Honduras working Remotely for [AcklenAvenue](https://acklenavenue.com/). I mostly work with JavaScript (AngularJs, Angular, NodeJs) and for Fullstack I use Ruby on Rails. I have a Master degree in Project Managemente and a Bachellor Degree in Computer Science.
+I'm a software developer, living at San Pedro Sula, Honduras working Remotely for [AcklenAvenue](https://acklenavenue.com/). I mostly work with JavaScript (ReactJs, AngularJs, NodeJs) and a few Fullstack projects with Ruby on Rails. I have a Master degree in Project Management and a Bachellor Degree in Computer Science.
 
-When I'm not working I'm studiying more about JavaScript, Rails, ReactJs, ReactNative.
+When I'm not working I'm studiying more about JavaScript, ReactJs, ReactNative & Nodejs.
 
 ### Portfolio
 
