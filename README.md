@@ -17,6 +17,7 @@ When I'm not working I'm studiying more about JavaScript, Rails, ReactJs, ReactN
 - **kodfocus.com**: It was an e-learning platform for learn to code, the project was alive for about two years, but now is currently shutdown. You can see a [Youtube](https://youtu.be/8sIeV6JJvAk) video resuming the platform, this video was used for my application into the Global Entrepreneurship Program in the University of San Diego California UCSD. Tools used: **Ruby on Rails 4, PostgreSql, Paypal, Digital Ocean, Bootstrap.**
 - [ReactJs My Personal Portfolio App](https://github.com/crisecheverria/reactjs-personal-portfolio): THis is my personal Portfolio created with ReactJs. Tools using: **ReactJs, NodeJs, Bootstrap**
 - [Rails Forum App](https://github.com/crisecheverria/simple_forum): Develop a simple Forum app with: Landing page with all Posts; Post's category; Commenting system; Login/Logout with permission to edit only owned Posts/Comments. [Live DEMO](https://rails5-forum.herokuapp.com/)
+- [API With Hapi and MongoDB](https://github.com/crisecheverria/API-HapiJs-MongoDB): Simple API with Hapi v17 and MongDB, you can make CRUD.
 
 
 ## List of Blog Post
