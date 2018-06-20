@@ -19,9 +19,10 @@ When I'm not working I'm studiying more about JavaScript, ReactJs, ReactNative &
 - [Rails Forum App](https://github.com/crisecheverria/simple_forum): Develop a simple Forum app with: Landing page with all Posts; Post's category; Commenting system; Login/Logout with permission to edit only owned Posts/Comments. [Live DEMO](https://rails5-forum.herokuapp.com/)
 - [API With Hapi and MongoDB](https://github.com/crisecheverria/API-HapiJs-MongoDB): Simple API with Hapi v17 and MongDB, you can make CRUD.
 
-
 ## List of Blog Post
+
 I started to write Blog Post in order to keep track of the new subjects I started to learn trough awesome learning sites and others developers Blogs. My intentions are put on one place all the new and cool stuff I'm learning and later can find them easely.
 
-1. [Javascript Map and Filter Array Methods](https://github.com/crisecheverria/javascript-map-and-filter-functions)
-2. [Contentful.com: Serve content API](https://github.com/crisecheverria/contentful-serve-content-API)
+1.  [Javascript Map and Filter Array Methods](https://github.com/crisecheverria/javascript-map-and-filter-functions)
+2.  [Contentful.com: Serve content API](https://github.com/crisecheverria/contentful-serve-content-API)
+3.  [My personal journey with React](https://github.com/crisecheverria/Cristian-Echeverria/blob/master/posts/my-personal-journey-with-react.md)
