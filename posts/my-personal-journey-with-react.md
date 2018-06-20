@@ -1,9 +1,9 @@
 ## My personal journey with ReactJs
 
 So as you probably know, I'm working as a Remote Web Developer for a really awesome company (Acklen Avenue), and with this job I was
-introduced to remotely web development, and I have learned a lot, git, pull request, branches, commits and so on. Also, I started working with ReactJs for the first time, at first to me ReactJs was like the most popular frontend framework and I took a few tutorials about it but it was always bad times for me in order to understand ReactJs.
+introduced to remotely web development, and I have learned a lot, git, pull request, branches, commits and so on. Also, I started working with ReactJs for the first time, at first time when I started to learn about ReactJs it was the most popular frontend framework (that was my main reason) and I took a few tutorials about it but it was always bad times for me in order to understand ReactJs.
 
-So I decided to go through an AWESOME course at Frontend Masters "Complete Intro to React" by Brian Holtz (awesome course)and I was so excited about how React works and got dive into Webpack, Babel, Prettier, Flow, React Class Components, React Functional Components, State, Props, Testing and so on. It was a huge dive in to React ecosystem.
+So I decided to go through an AWESOME course at Frontend Masters "Complete Intro to React" by Brian Holtz (really awesome course)and I was so excited about how React works and got dive into Webpack, Babel, Prettier, Flow, React Class Components, React Functional Components, State, Props, Testing and so on. It was a huge dive in to React ecosystem.
 
 Also, it helped me a lot because I decided to teach about React in one of the most important private university in my country San Pedro Sula (unitec.edu), and I followed the Course from Brian Holtz step by step, but later I realize that my students wasn't following the course, so I decided to look at TylerMcginnis.com and paid a monthly subscription and I definitely recommend
 it, the content is great, my only concern is that doesn't have subjects like testing React Components (at least I haven't see it yet), and testing is One of the Core Values at acklenavenue.com (the company where I work), so on that subject the "Complete Intro to React" from Brian Holtz was my first introduction to testing and it's great as a first contact.
